@@ -451,3 +451,29 @@ Total Price: 9,80, confidence: 0,98
 Name: Goose IPA - Tap, confidence: 0,98
 Quantity: 1,00, confidence: 0,99
 Total Price: 6,50, confidence: 0,98
+
+00.37.42:
+Merchant Name: Broodje van Martin, confidence: 0,97
+Subtotal Price: 45,00, confidence: 0,99 
+Transaction Date: 2023-09-26, confidence: 0,99
+Receipt Items: 
+Name: Broodjes, confidence: 0,94
+Unit Price: 4,00, confidence: 0,98
+Quantity: 3,00, confidence: 0,99
+Total Price: 12,00, confidence: 0,99
+Name: Broodjes, confidence: 0,95
+Unit Price: 3,00, confidence: 0,98
+Quantity: 2,00, confidence: 0,99
+Total Price: 6,00, confidence: 0,99
+Name: Broodjes, confidence: 0,94
+Unit Price: 2,50, confidence: 0,98
+Quantity: 4,00, confidence: 0,99
+Total Price: 10,00, confidence: 0,99
+Name: Broodjes, confidence: 0,94
+Unit Price: 5,00, confidence: 0,98
+Quantity: 2,00, confidence: 0,99
+Total Price: 10,00, confidence: 0,99
+Name: Broodjes, confidence: 0,94
+Unit Price: 7,00, confidence: 0,98
+Quantity: 1,00, confidence: 0,99
+Total Price: 7,00, confidence: 0,99
